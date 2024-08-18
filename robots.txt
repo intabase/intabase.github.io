@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://intabase.github.io/sitemap.html.gz
+Sitemap: https://intabase.github.io/app/sitemap.html.gz
+Sitemap: https://intabase.github.io/assets/sitemap.html.gz
+Sitemap: https://intabase.github.io/css/sitemap.html.gz
+Sitemap: https://intabase.github.io/includes/sitemap.html.gz
+Sitemap: https://intabase.github.io/item/sitemap.html.gz
+Sitemap: https://intabase.github.io/src/sitemap.html.gz
